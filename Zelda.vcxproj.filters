@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{ada9e27a-5a2f-4cd4-a502-61d33db68a64}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="inc">
+      <UniqueIdentifier>{2e565ee3-3498-4d4d-b733-bc9e6cc8145d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\anim.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\editor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gfuncs.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\input.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\link.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\module.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\object.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\objlst.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\portal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\respack.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\script.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\status.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\updenv.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\world.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\zelda.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\anim.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\defs.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\editor.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\fmod.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\game.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\gfuncs.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\input.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\link.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\lsttempl.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\module.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\object.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\objlst.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\portal.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\respack.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\script.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\status.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\unrar.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\updenv.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\world.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\zelda.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
