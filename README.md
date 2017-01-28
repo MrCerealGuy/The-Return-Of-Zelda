@@ -1,6 +1,8 @@
 # The Return Of Zelda
 My Zelda fan project from 2003.
 
+<img src="screenshot1.jpg" width="250px" alt="Zelda"> <img src="screenshot2.jpg" width="250px" alt="Zelda"> <img src="screenshot3.jpg" width="250px" alt="Zelda">
+
 ## Controls
 
 ```
